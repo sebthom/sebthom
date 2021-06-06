@@ -66,6 +66,11 @@ https://github.com/vegardit/docker-jenkins-ext[image:https://img.shields.io/gith
 https://github.com/vegardit/docker-openldap[image:https://img.shields.io/github/stars/vegardit/docker-openldap?style=social[GitHub Repo stars]]
 |Docker, Bash, Debian, OpenLDAP
 
+|https://github.com/vegardit/docker-meshcentral[vegardit/docker-meshcentral]
+|https://github.com/vegardit/docker-meshcentral/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-meshcentral/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-meshcentral[image:https://img.shields.io/github/stars/vegardit/docker-meshcentral?style=social[GitHub Repo stars]]
+|Docker, Bash, Debian, MeshCentral
+
 |https://github.com/vegardit/docker-wordpress-ext[vegardit/docker-wordpress-ext]
 |https://github.com/vegardit/docker-wordpress-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-wordpress-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
  https://github.com/vegardit/docker-wordpress-ext[image:https://img.shields.io/github/stars/vegardit/docker-wordpress-ext?style=social[GitHub Repo stars]]
