@@ -76,6 +76,11 @@ https://github.com/vegardit/docker-openldap[image:https://img.shields.io/github/
 https://github.com/vegardit/docker-meshcentral[image:https://img.shields.io/github/stars/vegardit/docker-meshcentral?style=social[GitHub Repo stars]]
 |Docker, Bash, Debian, MeshCentral
 
+|https://github.com/vegardit/docker-traefik-logrotate[vegardit/docker-traefik-logrotate]
+|https://github.com/vegardit/docker-traefik-logrotate/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-traefik-logrotate/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-traefik-logrotate[image:https://img.shields.io/github/stars/vegardit/docker-traefik-logrotate?style=social[GitHub Repo stars]]
+|Docker, Traefik, Logrotate, Bash
+
 |https://github.com/vegardit/docker-wordpress-ext[vegardit/docker-wordpress-ext]
 |https://github.com/vegardit/docker-wordpress-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-wordpress-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
  https://github.com/vegardit/docker-wordpress-ext[image:https://img.shields.io/github/stars/vegardit/docker-wordpress-ext?style=social[GitHub Repo stars]]
