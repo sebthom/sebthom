@@ -56,6 +56,11 @@ https://github.com/sebthom[image:https://github-readme-stats.vercel.app/api/top-
 https://github.com/vegardit/depcheck-maven-plugin[image:https://img.shields.io/github/stars/vegardit/depcheck-maven-plugin?style=social[GitHub Repo stars]]
 |Asm, Maven
 
+|https://github.com/vegardit/docker-gitea-ext[vegardit/docker-gitea-ext]
+|https://github.com/vegardit/docker-gitea-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-gitea-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-gitea-ext[image:https://img.shields.io/github/stars/vegardit/docker-gitea-ext?style=social[GitHub Repo stars]]
+|Docker, Gitea, Bash
+
 |https://github.com/vegardit/docker-jenkins-ext[vegardit/docker-jenkins-ext]
 |https://github.com/vegardit/docker-jenkins-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-jenkins-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
 https://github.com/vegardit/docker-jenkins-ext[image:https://img.shields.io/github/stars/vegardit/docker-jenkins-ext?style=social[GitHub Repo stars]]
