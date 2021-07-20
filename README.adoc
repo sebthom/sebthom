@@ -71,6 +71,11 @@ https://github.com/vegardit/docker-openldap[image:https://img.shields.io/github/
 https://github.com/vegardit/docker-jenkins-ext[image:https://img.shields.io/github/stars/vegardit/docker-jenkins-ext?style=social[GitHub Repo stars]]
 |Docker, Jenkins, Bash
 
+|https://github.com/vegardit/docker-jenkins-swarm-agent[vegardit/docker-jenkins-swarm-agent]
+|https://github.com/vegardit/docker-jenkins-swarm-agent/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-jenkins-swarm-agent/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-jenkins-swarm-agent[image:https://img.shields.io/github/stars/vegardit/docker-jenkins-swarm-agent?style=social[GitHub Repo stars]]
+|Docker, Alpine, Bash, OpenJDK
+
 |https://github.com/vegardit/docker-openldap[vegardit/docker-openldap]
 |https://github.com/vegardit/docker-openldap/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-openldap/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
 https://github.com/vegardit/docker-openldap[image:https://img.shields.io/github/stars/vegardit/docker-openldap?style=social[GitHub Repo stars]]
