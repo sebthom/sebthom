@@ -61,6 +61,11 @@ https://github.com/vegardit/depcheck-maven-plugin[image:https://img.shields.io/g
 https://github.com/vegardit/docker-gitea-ext[image:https://img.shields.io/github/stars/vegardit/docker-gitea-ext?style=social[GitHub Repo stars]]
 |Docker, Gitea, Bash
 
+|https://github.com/vegardit/docker-graalvm[vegardit/docker-graalvm]
+|https://github.com/vegardit/docker-graalvm/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-graalvm/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-openldap[image:https://img.shields.io/github/stars/vegardit/docker-graalvm?style=social[GitHub Repo stars]]
+|Docker, Bash, Debian, GraalVM, Maven
+
 |https://github.com/vegardit/docker-jenkins-ext[vegardit/docker-jenkins-ext]
 |https://github.com/vegardit/docker-jenkins-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-jenkins-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
 https://github.com/vegardit/docker-jenkins-ext[image:https://img.shields.io/github/stars/vegardit/docker-jenkins-ext?style=social[GitHub Repo stars]]
