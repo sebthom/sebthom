@@ -1,0 +1,144 @@
+// see https://github.com/anuraghazra/github-readme-stats
+https://github.com/sebthom[image:https://github-readme-stats.vercel.app/api?username=sebthom&hide_border=true&hide=stars&show_icons=true&line_height=22&count_private=true&include_all_commits=true&theme=default[]]
+https://github.com/sebthom[image:https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&layout=compact&hide_border=true&langs_count=4&theme=default[]]
+
+[cols=",,",options="header",]
+|===
+|Maintained Project |Status |Main Technologies
+
+|https://github.com/haxe4e/haxe4e[haxe4e/haxe4e]
+|https://github.com/haxe4e/haxe4e/actions?query=workflow%3ABuild[image:https://github.com/haxe4e/haxe4e/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/haxe4e/haxe4e[image:https://img.shields.io/github/stars/haxe4e/haxe4e?style=social[GitHub Repo stars]]
+|Java 11, Eclipse SWT/RCP, Maven, Tycho, LSP4E, TM4E, Haxe Language Server, node.js
+
+|https://github.com/haxe4e/haxe-studio[haxe4e/haxe-studio]
+|https://github.com/haxe4e/haxe-studio/actions?query=workflow%3ABuild[image:https://github.com/haxe4e/haxe-studio/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/haxe4e/haxe-studio[image:https://img.shields.io/github/stars/haxe4e/haxe-studio?style=social[GitHub Repo stars]]
+|Java 11, Eclipse SWT/RCP, Maven, Tycho
+
+|https://github.com/sebthom/jstuff[sebthom/jstuff]
+|https://github.com/sebthom/jstuff/actions?query=workflow%3A%22Build%22[image:https://github.com/sebthom/jstuff/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/sebthom/jstuff[image:https://img.shields.io/github/stars/sebthom/jstuff?style=social[GitHub Repo stars]]
+|Java 8, Maven
+
+|https://github.com/sebthom/more-clink-completions[sebthom/more-clink-completions]
+|https://github.com/sebthom/more-clink-completions/actions?query=workflow%3A%22Build%22[image:https://github.com/sebthom/more-clink-completions/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/sebthom/more-clink-completions[image:https://img.shields.io/github/stars/sebthom/more-clink-completions?style=social[GitHub Repo stars]]
+|Lua 5.2, Clink
+
+|https://github.com/sebthom/oval[sebthom/oval]
+|https://github.com/sebthom/oval/actions?query=workflow%3A%22Build%22[image:https://github.com/sebthom/oval/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/sebthom/oval[image:https://img.shields.io/github/stars/sebthom/oval?style=social[GitHub Repo stars]]
+|Java 8, AspectJ, Maven
+
+|https://github.com/vegardit/activemq-artemis-dynatrace-plugin[vegardit/activemq-artemis-dynatrace-plugin]
+|https://github.com/vegardit/activemq-artemis-dynatrace-plugin/actions?query=workflow%3ABuild[image:https://github.com/vegardit/activemq-artemis-dynatrace-plugin/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/activemq-artemis-dynatrace-plugin[image:https://img.shields.io/github/stars/vegardit/activemq-artemis-dynatrace-plugin?style=social[GitHub Repo stars]]
+|Dynatrace, ActiveMQ Artemis, JMX
+
+|https://github.com/vegardit/await.sh[vegardit/await.sh]
+|https://github.com/vegardit/await.sh/actions?query=workflow%3ABuild[image:https://github.com/vegardit/await.sh/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/await.sh[image:https://img.shields.io/github/stars/vegardit/await.sh?style=social[GitHub Repo stars]]
+|Shell, Shellcheck, Bats, Docker
+
+|https://github.com/vegardit/bash-funk[vegardit/bash-funk]
+|https://github.com/vegardit/bash-funk/actions?query=workflow%3ABuild[image:https://github.com/vegardit/bash-funk/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/bash-funk[image:https://img.shields.io/github/stars/vegardit/bash-funk?style=social[GitHub Repo stars]]
+|Bash
+
+|https://github.com/vegardit/copycat[vegardit/copycat]
+|https://github.com/vegardit/copycat/actions?query=workflow%3ABuild[image:https://github.com/vegardit/copycat/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/copycat[image:https://img.shields.io/github/stars/vegardit/copycat?style=social[GitHub Repo stars]]
+|Java 11, GraalVM, Maven
+
+|https://github.com/vegardit/cygwin-portable-installer[vegardit/cygwin-portable-installer]
+|https://github.com/vegardit/cygwin-portable-installer/actions?query=workflow%3ABuild[image:https://github.com/vegardit/cygwin-portable-installer/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/cygwin-portable-installer[image:https://img.shields.io/github/stars/vegardit/cygwin-portable-installer?style=social[GitHub Repo stars]]
+|Bash, Cygwin, Windows Batch
+
+|https://github.com/vegardit/dart-hotreloader[vegardit/dart-hotreloader]
+|https://github.com/vegardit/dart-hotreloader/actions?query=workflow%3ABuild[image:https://github.com/vegardit/dart-hotreloader/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/dart-hotreloader[image:https://img.shields.io/github/stars/vegardit/dart-hotreloader?style=social[GitHub Repo stars]]
+|Dart
+
+|https://github.com/vegardit/depcheck-maven-plugin[vegardit/depcheck-maven-plugin]
+|https://github.com/vegardit/depcheck-maven-plugin/actions?query=workflow%3ABuild[image:https://github.com/vegardit/depcheck-maven-plugin/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/depcheck-maven-plugin[image:https://img.shields.io/github/stars/vegardit/depcheck-maven-plugin?style=social[GitHub Repo stars]]
+|Asm, Maven
+
+|https://github.com/vegardit/docker-gitea-ext[vegardit/docker-gitea-ext]
+|https://github.com/vegardit/docker-gitea-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-gitea-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-gitea-ext[image:https://img.shields.io/github/stars/vegardit/docker-gitea-ext?style=social[GitHub Repo stars]]
+|Docker, Gitea, Bash
+
+|https://github.com/vegardit/docker-graalvm-maven[vegardit/docker-graalvm-maven]
+|https://github.com/vegardit/docker-graalvm-maven/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-graalvm-maven/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-graalvm-maven[image:https://img.shields.io/github/stars/vegardit/docker-graalvm-maven?style=social[GitHub Repo stars]]
+|Docker, Bash, Debian, GraalVM, Maven
+
+|https://github.com/vegardit/docker-jenkins-ext[vegardit/docker-jenkins-ext]
+|https://github.com/vegardit/docker-jenkins-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-jenkins-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-jenkins-ext[image:https://img.shields.io/github/stars/vegardit/docker-jenkins-ext?style=social[GitHub Repo stars]]
+|Docker, Jenkins, Bash
+
+|https://github.com/vegardit/docker-jenkins-swarm-agent[vegardit/docker-jenkins-swarm-agent]
+|https://github.com/vegardit/docker-jenkins-swarm-agent/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-jenkins-swarm-agent/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-jenkins-swarm-agent[image:https://img.shields.io/github/stars/vegardit/docker-jenkins-swarm-agent?style=social[GitHub Repo stars]]
+|Docker, Alpine, Bash, OpenJDK
+
+|https://github.com/vegardit/docker-meshcentral[vegardit/docker-meshcentral]
+|https://github.com/vegardit/docker-meshcentral/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-meshcentral/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-meshcentral[image:https://img.shields.io/github/stars/vegardit/docker-meshcentral?style=social[GitHub Repo stars]]
+|Docker, Bash, Debian, MeshCentral
+
+|https://github.com/vegardit/docker-openldap[vegardit/docker-openldap]
+|https://github.com/vegardit/docker-openldap/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-openldap/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-openldap[image:https://img.shields.io/github/stars/vegardit/docker-openldap?style=social[GitHub Repo stars]]
+|Docker, Bash, Debian, OpenLDAP
+
+|https://github.com/vegardit/docker-osslsigncode[vegardit/docker-osslsigncode]
+|https://github.com/vegardit/docker-osslsigncode/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-osslsigncode/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-osslsigncode[image:https://img.shields.io/github/stars/vegardit/docker-osslsigncode?style=social[GitHub Repo stars]]
+|Docker, Bash, Alpine, Debian, osslsigncode
+
+|https://github.com/vegardit/docker-softhsm2-pkcs11-proxy[vegardit/docker-softhsm2-pkcs11-proxy]
+|https://github.com/vegardit/docker-softhsm2-pkcs11-proxy/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-softhsm2-pkcs11-proxy/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-softhsm2-pkcs11-proxy[image:https://img.shields.io/github/stars/vegardit/docker-softhsm2-pkcs11-proxy?style=social[GitHub Repo stars]]
+|Docker, Bash, Alpine, Debian, SoftHSMv2, +
+PKCS11-Proxy, OpenSC/PCKS11-Tool
+
+|https://github.com/vegardit/docker-traefik-logrotate[vegardit/docker-traefik-logrotate]
+|https://github.com/vegardit/docker-traefik-logrotate/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-traefik-logrotate/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/docker-traefik-logrotate[image:https://img.shields.io/github/stars/vegardit/docker-traefik-logrotate?style=social[GitHub Repo stars]]
+|Docker, Traefik, Logrotate, Bash
+
+|https://github.com/vegardit/docker-wordpress-ext[vegardit/docker-wordpress-ext]
+|https://github.com/vegardit/docker-wordpress-ext/actions?query=workflow%3ABuild[image:https://github.com/vegardit/docker-wordpress-ext/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/docker-wordpress-ext[image:https://img.shields.io/github/stars/vegardit/docker-wordpress-ext?style=social[GitHub Repo stars]]
+|Docker, Wordpress, PHP, OPCache
+
+|https://github.com/vegardit/haxe-concurrent[vegardit/haxe-concurrent]
+|https://github.com/vegardit/haxe-concurrent/actions?query=workflow%3ABuild[image:https://github.com/vegardit/haxe-concurrent/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/haxe-concurrent[image:https://img.shields.io/github/stars/vegardit/haxe-concurrent?style=social[GitHub Repo stars]]
+|Haxe, C++, C#, Java, Lua, Node.js, PHP, Python
+
+|https://github.com/vegardit/haxe-doctest[vegardit/haxe-doctest]
+|https://github.com/vegardit/haxe-doctest/actions?query=workflow%3ABuild[image:https://github.com/vegardit/haxe-doctest/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/haxe-doctest[image:https://img.shields.io/github/stars/vegardit/haxe-doctest?style=social[GitHub Repo stars]]
+|Haxe, C++, C#, Java, Lua, Node.js, PHP, Python
+
+|https://github.com/vegardit/haxe-files[vegardit/haxe-files]
+|https://github.com/vegardit/haxe-files/actions?query=workflow%3ABuild[image:https://github.com/vegardit/haxe-files/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/haxe-files[image:https://img.shields.io/github/stars/vegardit/haxe-files?style=social[GitHub Repo stars]]
+|Haxe, C++, C#, Java, Lua, Node.js, PHP, Python
+
+|https://github.com/vegardit/haxe-strings[vegardit/haxe-strings]
+|https://github.com/vegardit/haxe-strings/actions?query=workflow%3ABuild[image:https://github.com/vegardit/haxe-strings/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+ https://github.com/vegardit/haxe-strings[image:https://img.shields.io/github/stars/vegardit/haxe-strings?style=social[GitHub Repo stars]]
+|Haxe, C++, C#, Java, Lua, Node.js, PHP, Python
+
+|https://github.com/vegardit/vegardit-maven-parent[vegardit/vegardit-maven-parent]
+|https://github.com/vegardit/vegardit-maven-parent/actions?query=workflow%3ABuild[image:https://github.com/vegardit/vegardit-maven-parent/workflows/Build/badge.svg[Build Status,title="GitHub Actions"]]
+https://github.com/vegardit/vegardit-maven-parent[image:https://img.shields.io/github/stars/vegardit/vegardit-maven-parent?style=social[GitHub Repo stars]]
+|Checkstyle, Groovy, Maven
+
