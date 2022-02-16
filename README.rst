@@ -41,6 +41,24 @@
           :target: https://github.com/sebthom/jstuff
      - Java 8, Maven
 
+   * - `sebthom/findview-eclipse-plugin <https://github.com/sebthom/findview-eclipse-plugin>`_
+     - .. image:: https://github.com/sebthom/findview-eclipse-plugin/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/sebthom/findview-eclipse-plugin/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/sebthom/findview-eclipse-plugin?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/sebthom/findview-eclipse-plugin
+     - Java 11, Eclipse SWT/RCP, Maven, Tycho
+
+   * - `sebthom/open-with-eclipse-plugin <https://github.com/sebthom/open-with-eclipse-plugin>`_
+     - .. image:: https://github.com/sebthom/open-with-eclipse-plugin/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/sebthom/open-with-eclipse-plugin/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/sebthom/open-with-eclipse-plugin?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/sebthom/open-with-eclipse-plugin
+     - Java 11, Eclipse SWT/RCP, Maven, Tycho
+
    * - `sebthom/more-clink-completions <https://github.com/sebthom/more-clink-completions>`_
      - .. image:: https://github.com/sebthom/more-clink-completions/workflows/Build/badge.svg
           :alt: Build Status
@@ -49,7 +67,7 @@
           :alt: GitHub Repo stars
           :target: https://github.com/sebthom/more-clink-completions
      - Lua 5.2, Clink
-
+     
    * - `sebthom/oval <https://github.com/sebthom/oval>`_
      - .. image:: https://github.com/sebthom/oval/workflows/Build/badge.svg
           :alt: Build Status
