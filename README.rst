@@ -266,7 +266,7 @@
           :target: https://github.com/vegardit/haxe-files
      - Haxe, C++, C#, Java, Lua, Node.js, PHP, Python
 
-   * - `vegardit/haxe-strings <https://github.com/vegardit/vegardit/haxe-strings>`_
+   * - `vegardit/haxe-strings <https://github.com/vegardit/haxe-strings>`_
      - .. image:: https://github.com/vegardit/haxe-strings/workflows/Build/badge.svg
           :alt: Build Status
           :target: https://github.com/vegardit/haxe-strings/actions?query=workflow%3ABuild
