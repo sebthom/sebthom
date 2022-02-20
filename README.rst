@@ -1,3 +1,4 @@
+
 .. see https://github.com/anuraghazra/github-readme-stats
 .. image:: https://github-readme-stats.vercel.app/api?username=sebthom&hide_border=true&hide=stars&show_icons=true&line_height=22&count_private=true&include_all_commits=true&theme=default
    :target: https://github.com/sebthom
@@ -5,6 +6,10 @@
 .. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&layout=compact&hide_border=true&langs_count=4&theme=default
    :target: https://github.com/sebthom
    :width: 335
+
+.. see https://github.com/ryo-ma/github-profile-trophy
+.. image:: https://github-profile-trophy.vercel.app/?username=sebthom&row=1&column=6&margin-w=30&no-frame=true
+   :target: https://github.com/sebthom
 
 .. list-table::
    :widths: 15 10 30
