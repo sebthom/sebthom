@@ -44,6 +44,15 @@
           :target: https://github.com/sebthom/jstuff
      - Java 8, Maven
 
+   * - `sebthom/extra-syntax-highlighting-eclipse-plugin <https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin>`_
+     - .. image:: https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/sebthom/extra-syntax-highlighting-eclipse-plugin?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin
+     - Java 11, Eclipse RCP, Maven, Tycho, TextMate, TM4E
+
    * - `sebthom/findview-eclipse-plugin <https://github.com/sebthom/findview-eclipse-plugin>`_
      - .. image:: https://github.com/sebthom/findview-eclipse-plugin/workflows/Build/badge.svg
           :alt: Build Status
