@@ -8,6 +8,7 @@
 
 .. image:: https://github-profile-trophy.vercel.app/?username=sebthom&row=1&column=6&margin-w=30&no-frame=true
    :target: https://github.com/ryo-ma/github-profile-trophy
+   :alt: GitHub Profile Trophies
 
 .. list-table::
    :widths: 15 10 30
