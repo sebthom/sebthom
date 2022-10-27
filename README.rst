@@ -26,7 +26,7 @@
        .. image:: https://img.shields.io/github/stars/haxe4e/haxe4e?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/haxe4e/haxe4e
-     - Java 11, Eclipse SWT/RCP, Maven, Tycho, LSP4E, TM4E, Haxe Language Server, node.js
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho, LSP4E, TM4E, Haxe Language Server, node.js
 
    * - `haxe4e/haxe-studio <https://github.com/haxe4e/haxe-studio>`_
      - .. image:: https://github.com/haxe4e/haxe-studio/workflows/Build/badge.svg
@@ -35,7 +35,7 @@
        .. image:: https://img.shields.io/github/stars/haxe4e/haxe-studio?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/haxe4e/haxe-studio
-     - Java 11, Eclipse SWT/RCP, Maven, Tycho
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho
 
    * - `sebthom/jstuff <https://github.com/sebthom/jstuff>`_
      - .. image:: https://github.com/sebthom/jstuff/workflows/Build/badge.svg
@@ -53,7 +53,7 @@
        .. image:: https://img.shields.io/github/stars/sebthom/extra-syntax-highlighting-eclipse-plugin?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin
-     - Java 11, Eclipse RCP, Maven, Tycho, TextMate, TM4E
+     - Java 17, Eclipse RCP, Maven, Tycho, TextMate, TM4E
 
    * - `sebthom/findview-eclipse-plugin <https://github.com/sebthom/findview-eclipse-plugin>`_
      - .. image:: https://github.com/sebthom/findview-eclipse-plugin/workflows/Build/badge.svg
@@ -62,7 +62,7 @@
        .. image:: https://img.shields.io/github/stars/sebthom/findview-eclipse-plugin?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/sebthom/findview-eclipse-plugin
-     - Java 11, Eclipse SWT/RCP, Maven, Tycho
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho
 
    * - `sebthom/open-with-eclipse-plugin <https://github.com/sebthom/open-with-eclipse-plugin>`_
      - .. image:: https://github.com/sebthom/open-with-eclipse-plugin/workflows/Build/badge.svg
@@ -71,7 +71,7 @@
        .. image:: https://img.shields.io/github/stars/sebthom/open-with-eclipse-plugin?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/sebthom/open-with-eclipse-plugin
-     - Java 11, Eclipse SWT/RCP, Maven, Tycho
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho
 
    * - `sebthom/more-clink-completions <https://github.com/sebthom/more-clink-completions>`_
      - .. image:: https://github.com/sebthom/more-clink-completions/workflows/Build/badge.svg
