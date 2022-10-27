@@ -44,7 +44,7 @@
        .. image:: https://img.shields.io/github/stars/sebthom/jstuff?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/sebthom/jstuff
-     - Java 8, Maven
+     - Java 11, Maven
 
    * - `sebthom/extra-syntax-highlighting-eclipse-plugin <https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin>`_
      - .. image:: https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin/workflows/Build/badge.svg
