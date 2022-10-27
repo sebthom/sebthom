@@ -2,7 +2,8 @@
 .. image:: https://github-readme-stats.vercel.app/api?username=sebthom&hide_border=true&hide=stars&show_icons=true&line_height=22&count_private=true&include_all_commits=true&theme=default
    :target: https://github.com/anuraghazra/github-readme-stats
    :width: 480
-.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&layout=compact&hide_border=true&langs_count=4&theme=default
+.. image:: https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=sebthom&langs_count=6&layout=compact&hide_border=true&langs_count=4&theme=default&hide=aspectj&role=OWNER,COLLABORATOR
+   #image:: https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&layout=compact&hide_border=true&langs_count=4&theme=default&hide=aspectj
    :target: https://github.com/sebthom
    :width: 335
 
