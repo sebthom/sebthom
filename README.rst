@@ -18,6 +18,24 @@
    * - Maintained Project
      - Status
      - Main Technologies
+     
+   * - `dart4e/dart4e <https://github.com/dart4e/dart4e>`_
+     - .. image:: https://github.com/dart4e/dart4e/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/dart4e/dart4e/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/dart4e/dart4e?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/dart4e/dart4e
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho, LSP4E, TM4E, Dart Language Server, Flutter
+
+   * - `dart4e/dart4e-studio <https://github.com/dart4e/dart4e-studio>`_
+     - .. image:: https://github.com/dart4e/dart4e-studio/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/dart4e/dart4e-studio/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/dart4e/dart4e-studio?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/dart4e/dart4e-studio
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho
 
    * - `haxe4e/haxe4e <https://github.com/haxe4e/haxe4e>`_
      - .. image:: https://github.com/haxe4e/haxe4e/workflows/Build/badge.svg
