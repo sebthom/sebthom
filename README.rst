@@ -271,6 +271,15 @@
           :target: https://github.com/vegardit/docker-wordpress-ext
      - Docker, Wordpress, PHP, OPCache
 
+   * - `vegardit/fast-apt-mirror.sh <https://github.com/vegardit/fast-apt-mirror.sh>`_
+     - .. image:: https://github.com/vegardit/fast-apt-mirror.sh/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/vegardit/fast-apt-mirror.sh/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/vegardit/fast-apt-mirror.sh?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/vegardit/fast-apt-mirror.sh
+     - Debian, Ubuntu, Pop!_OS, Docker, Bash, Bashcov, Shellcheck
+
    * - `vegardit/haxe-concurrent <https://github.com/vegardit/haxe-concurrent>`_
      - .. image:: https://github.com/vegardit/haxe-concurrent/workflows/Build/badge.svg
           :alt: Build Status
