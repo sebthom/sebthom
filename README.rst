@@ -181,6 +181,15 @@
           :target: https://github.com/vegardit/depcheck-maven-plugin
      - Java 11, Asm, Maven
 
+   * - `vegardit/docker-gitea-act-runner <https://github.com/vegardit/docker-gitea-act-runner>`_
+     - .. image:: https://github.com/vegardit/docker-gitea-act-runner/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/vegardit/docker-gitea-act-runner/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/vegardit/docker-gitea-act-runner?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/vegardit/docker-gitea-act-runner
+     - Docker, Gitea, Bash
+
    * - `vegardit/docker-gitea-ext <https://github.com/vegardit/docker-gitea-ext>`_
      - .. image:: https://github.com/vegardit/docker-gitea-ext/workflows/Build/badge.svg
           :alt: Build Status
