@@ -18,6 +18,15 @@
      - Status
      - Main Technologies
 
+   * - `eclipse/tm4e <https://github.com/eclipse/tm4e>`_
+     - .. image:: https://github.com/eclipse/tm4e/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/eclipse/tm4e/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/eclipse/tm4e?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/eclipse/tm4e
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho
+
    * - `dart4e/dart4e <https://github.com/dart4e/dart4e>`_
      - .. image:: https://github.com/dart4e/dart4e/workflows/Build/badge.svg
           :alt: Build Status
