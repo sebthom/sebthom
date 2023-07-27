@@ -342,6 +342,15 @@
           :target: https://github.com/vegardit/haxe-strings
      - Haxe, C++, C#, Java, Lua, Node.js, PHP, Python
 
+   * - `vegardit/scoop-portable <https://github.com/vegardit/scoop-portable>`_
+     - .. image:: https://github.com/vegardit/scoop-portable/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/vegardit/scoop-portable/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/vegardit/scoop-portable?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/vegardit/scoop-portable
+     - Powershell, Windows Batch
+
    * - `vegardit/vegardit-maven-parent <https://github.com/vegardit/vegardit-maven-parent>`_
      - .. image:: https://github.com/vegardit/vegardit-maven-parent/workflows/Build/badge.svg
           :alt: Build Status
