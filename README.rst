@@ -19,7 +19,7 @@
      - Main Technologies
 
    * - `eclipse/lsp4e <https://github.com/eclipse/lsp4e>`_
-     - .. image:: https://github.com/eclipse/lsp4e/workflows/Build/badge.svg
+     - .. image:: https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fci.eclipse.org%2Flsp4e%2Fjob%2Flsp4e-github%2Fjob%2Fmaster%2F&logo=jenkins
           :alt: Build Status
           :target: https://github.com/eclipse/lsp4e/actions?query=workflow%3ABuild
        .. image:: https://img.shields.io/github/stars/eclipse/tm4e?style=social
