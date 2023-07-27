@@ -72,6 +72,15 @@
           :target: https://github.com/sebthom/jstuff
      - Java 11, Maven
 
+   * - `sebthom/batch-functions <https://github.com/sebthom/ebatch-functions>`_
+     - .. image:: https://github.com/sebthom/batch-functions/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/sebthom/batch-functions/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/sebthom/batch-functions?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/sebthom/batch-functions
+     - Windows Batch
+
    * - `sebthom/extra-syntax-highlighting-eclipse-plugin <https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin>`_
      - .. image:: https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin/workflows/Build/badge.svg
           :alt: Build Status
