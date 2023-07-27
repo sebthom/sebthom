@@ -81,7 +81,7 @@
           :target: https://github.com/sebthom/jstuff
      - Java 11, Maven
 
-   * - `sebthom/batch-functions <https://github.com/sebthom/ebatch-functions>`_
+   * - `sebthom/batch-functions <https://github.com/sebthom/batch-functions>`_
      - .. image:: https://github.com/sebthom/batch-functions/workflows/Build/badge.svg
           :alt: Build Status
           :target: https://github.com/sebthom/batch-functions/actions?query=workflow%3ABuild
