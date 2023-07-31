@@ -49,6 +49,21 @@
           :alt: GitHub pull requests
           :target: https://github.com/eclipse/tm4e/pulls
 
+   * - `Second-Hand-Friends/kleinanzeigen-bot <https://github.com/Second-Hand-Friends/kleinanzeigen-bot>`_
+     - .. image:: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/Second-Hand-Friends/kleinanzeigen-bot?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot
+     - Python 3, PyInstaller, Selenium, Docker, Bash
+     - .. image:: https://img.shields.io/github/issues/Second-Hand-Friends/kleinanzeigen-bot?label=Issues
+          :alt: GitHub issues
+          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/issues
+       .. image:: https://img.shields.io/github/issues-pr/Second-Hand-Friends/kleinanzeigen-bot?label=PRs
+          :alt: GitHub pull requests
+          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/pulls
+
    * - `dart4e/dart4e <https://github.com/dart4e/dart4e>`_
      - .. image:: https://github.com/dart4e/dart4e/workflows/Build/badge.svg
           :alt: Build Status
@@ -198,21 +213,6 @@
        .. image:: https://img.shields.io/github/issues-pr/sebthom/more-clink-completions?label=PRs
           :alt: GitHub pull requests
           :target: https://github.com/sebthom/more-clink-completions/pulls
-
-   * - `Second-Hand-Friends/kleinanzeigen-bot <https://github.com/Second-Hand-Friends/kleinanzeigen-bot>`_
-     - .. image:: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/workflows/Build/badge.svg
-          :alt: Build Status
-          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/actions?query=workflow%3ABuild
-       .. image:: https://img.shields.io/github/stars/Second-Hand-Friends/kleinanzeigen-bot?style=social
-          :alt: GitHub Repo stars
-          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot
-     - Python 3, PyInstaller, Selenium, Docker, Bash
-     - .. image:: https://img.shields.io/github/issues/Second-Hand-Friends/kleinanzeigen-bot?label=Issues
-          :alt: GitHub issues
-          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/issues
-       .. image:: https://img.shields.io/github/issues-pr/Second-Hand-Friends/kleinanzeigen-bot?label=PRs
-          :alt: GitHub pull requests
-          :target: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/pulls
 
    * - `vegardit/activemq-artemis-dynatrace-plugin <https://github.com/vegardit/activemq-artemis-dynatrace-plugin>`_
      - .. image:: https://github.com/vegardit/activemq-artemis-dynatrace-plugin/workflows/Build/badge.svg
