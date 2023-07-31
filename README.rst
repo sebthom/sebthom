@@ -199,21 +199,6 @@
           :alt: GitHub pull requests
           :target: https://github.com/sebthom/more-clink-completions/pulls
 
-   * - `sebthom/oval <https://github.com/sebthom/oval>`_
-     - .. image:: https://github.com/sebthom/oval/workflows/Build/badge.svg
-          :alt: Build Status
-          :target: https://github.com/sebthom/oval/actions?query=workflow%3ABuild
-       .. image:: https://img.shields.io/github/stars/sebthom/oval?style=social
-          :alt: GitHub Repo stars
-          :target: https://github.com/sebthom/oval
-     - Java 8, AspectJ, Maven
-     - .. image:: https://img.shields.io/github/issues/sebthom/oval?label=Issues
-          :alt: GitHub issues
-          :target: https://github.com/sebthom/oval/issues
-       .. image:: https://img.shields.io/github/issues-pr/sebthom/oval?label=PRs
-          :alt: GitHub pull requests
-          :target: https://github.com/sebthom/oval/pulls
-
    * - `Second-Hand-Friends/kleinanzeigen-bot <https://github.com/Second-Hand-Friends/kleinanzeigen-bot>`_
      - .. image:: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/workflows/Build/badge.svg
           :alt: Build Status
@@ -378,36 +363,6 @@
        .. image:: https://img.shields.io/github/issues-pr/vegardit/docker-graalvm-maven?label=PRs
           :alt: GitHub pull requests
           :target: https://github.com/vegardit/docker-graalvm-maven/pulls
-
-   * - `vegardit/docker-jenkins-ext <https://github.com/vegardit/docker-jenkins-ext>`_
-     - .. image:: https://github.com/vegardit/docker-jenkins-ext/workflows/Build/badge.svg
-          :alt: Build Status
-          :target: https://github.com/vegardit/docker-jenkins-ext/actions?query=workflow%3ABuild
-       .. image:: https://img.shields.io/github/stars/vegardit/docker-jenkins-ext?style=social
-          :alt: GitHub Repo stars
-          :target: https://github.com/vegardit/docker-jenkins-ext
-     - Docker, Bash, Jenkins
-     - .. image:: https://img.shields.io/github/issues/vegardit/docker-jenkins-ext?label=Issues
-          :alt: GitHub issues
-          :target: https://github.com/vegardit/docker-jenkins-ext/issues
-       .. image:: https://img.shields.io/github/issues-pr/vegardit/docker-jenkins-ext?label=PRs
-          :alt: GitHub pull requests
-          :target: https://github.com/vegardit/docker-jenkins-ext/pulls
-
-   * - `vegardit/docker-jenkins-swarm-agent <https://github.com/vegardit/docker-jenkins-swarm-agent>`_
-     - .. image:: https://github.com/vegardit/docker-jenkins-swarm-agent/workflows/Build/badge.svg
-          :alt: Build Status
-          :target: https://github.com/vegardit/docker-jenkins-swarm-agent/actions?query=workflow%3ABuild
-       .. image:: https://img.shields.io/github/stars/vegardit/docker-jenkins-swarm-agent?style=social
-          :alt: GitHub Repo stars
-          :target: https://github.com/vegardit/docker-jenkins-swarm-agent
-     - Docker, Alpine, Bash, OpenJDK
-     - .. image:: https://img.shields.io/github/issues/vegardit/docker-jenkins-swarm-agent?label=Issues
-          :alt: GitHub issues
-          :target: https://github.com/vegardit/docker-jenkins-swarm-agent/issues
-       .. image:: https://img.shields.io/github/issues-pr/vegardit/docker-jenkins-swarm-agent?label=PRs
-          :alt: GitHub pull requests
-          :target: https://github.com/vegardit/docker-jenkins-swarm-agent/pulls
 
    * - `vegardit/docker-meshcentral <https://github.com/vegardit/docker-meshcentral>`_
      - .. image:: https://github.com/vegardit/docker-meshcentral/workflows/Build/badge.svg
@@ -603,3 +558,20 @@
        .. image:: https://img.shields.io/github/issues-pr/vegardit/vegardit-maven-parent?label=PRs
           :alt: GitHub pull requests
           :target: https://github.com/vegardit/vegardit-maven-parent/pulls
+
+
+.. list-table::
+   :widths: 30 70
+   :header-rows: 1
+
+   * - Archived Project
+     - Main Technologies
+
+   * - `sebthom/oval <https://github.com/sebthom/oval>`_
+     - Java 8, AspectJ, Maven
+
+   * - `vegardit/docker-jenkins-ext <https://github.com/vegardit/docker-jenkins-ext>`_
+     - Docker, Bash, Jenkins
+
+   * - `vegardit/docker-jenkins-swarm-agent <https://github.com/vegardit/docker-jenkins-swarm-agent>`_
+     - Docker, Alpine, Bash, OpenJDK
