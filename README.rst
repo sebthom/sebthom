@@ -154,6 +154,21 @@
           :alt: GitHub pull requests
           :target: https://github.com/sebthom/batch-functions/pulls
 
+   * - `sebthom/eclipse-commons <https://github.com/sebthom/eclipse-commons>`_
+     - .. image:: https://github.com/sebthom/eclipse-commons/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/sebthom/eclipse-commons/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/sebthom/eclipse-commons?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/sebthom/eclipse-commons
+     - Java 17, Eclipse RCP, Maven, Tycho
+     - .. image:: https://img.shields.io/github/issues/sebthom/eclipse-commons?label=Issues
+          :alt: GitHub issues
+          :target: https://github.com/sebthom/eclipse-commons/issues
+       .. image:: https://img.shields.io/github/issues-pr/sebthom/eclipse-commons?label=PRs
+          :alt: GitHub pull requests
+          :target: https://github.com/sebthom/eclipse-commons/pulls
+
    * - `sebthom/extra-syntax-highlighting-eclipse-plugin <https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin>`_
      - .. image:: https://github.com/sebthom/extra-syntax-highlighting-eclipse-plugin/workflows/Build/badge.svg
           :alt: Build Status
