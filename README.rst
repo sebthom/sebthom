@@ -559,6 +559,22 @@
           :alt: GitHub pull requests
           :target: https://github.com/vegardit/scoop-portable/pulls
 
+
+   * - `vegardit/no-npe <https://github.com/vegardit/no-npe>`_
+     - .. image:: https://github.com/vegardit/no-npe/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/vegardit/no-npe/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/vegardit/no-npe?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/vegardit/no-npe
+     - Java 11, Java 17, Eclipse EEA, Classgraph Maven
+     - .. image:: https://img.shields.io/github/issues/vegardit/no-npe?label=Issues
+          :alt: GitHub issues
+          :target: https://github.com/vegardit/no-npe/issues
+       .. image:: https://img.shields.io/github/issues-pr/vegardit/no-npe?label=PRs
+          :alt: GitHub pull requests
+          :target: https://github.com/vegardit/no-npe/pulls
+
    * - `vegardit/vegardit-maven-parent <https://github.com/vegardit/vegardit-maven-parent>`_
      - .. image:: https://github.com/vegardit/vegardit-maven-parent/workflows/Build/badge.svg
           :alt: Build Status
