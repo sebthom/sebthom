@@ -252,10 +252,10 @@
           :alt: GitHub Repo stars
           :target: https://github.com/vegardit/await.sh
      - Shell, Shellcheck, Bats, Docker
-     - .. image:: https://img.shields.io/github/issues/vegardit/await.sh?label=Issues
+     - .. image:: https://img.shields.io/github/issues/vegardit/await%2Esh?label=Issues
           :alt: GitHub issues
           :target: https://github.com/vegardit/await.sh/issues
-       .. image:: https://img.shields.io/github/issues-pr/vegardit/await.sh?label=PRs
+       .. image:: https://img.shields.io/github/issues-pr/vegardit/await%2Esh?label=PRs
           :alt: GitHub pull requests
           :target: https://github.com/vegardit/await.sh/pulls
 
@@ -477,10 +477,10 @@
           :alt: GitHub Repo stars
           :target: https://github.com/vegardit/fast-apt-mirror.sh
      - Debian, Ubuntu, Pop!_OS, Docker, Bash, Bashcov, Shellcheck
-     - .. image:: https://img.shields.io/github/issues/vegardit/fast-apt-mirror.sh?label=Issues
+     - .. image:: https://img.shields.io/github/issues/vegardit/fast-apt-mirror%2Esh?label=Issues
           :alt: GitHub issues
           :target: https://github.com/vegardit/fast-apt-mirror.sh/issues
-       .. image:: https://img.shields.io/github/issues-pr/vegardit/fast-apt-mirror.sh?label=PRs
+       .. image:: https://img.shields.io/github/issues-pr/vegardit/fast-apt-mirror%2Esh?label=PRs
           :alt: GitHub pull requests
           :target: https://github.com/vegardit/fast-apt-mirror.sh/pulls
 
