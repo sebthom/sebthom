@@ -214,6 +214,21 @@
           :alt: GitHub pull requests
           :target: https://github.com/sebthom/open-with-eclipse-plugin/pulls
 
+   * - `sebthom/previewer-eclipse-plugin <https://github.com/sebthom/previewer-eclipse-plugin>`_
+     - .. image:: https://github.com/sebthom/previewer-eclipse-plugin/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/sebthom/previewer-eclipse-plugin/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/sebthom/previewer-eclipse-plugin?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/sebthom/previewer-eclipse-plugin
+     - Java 17, Eclipse SWT/RCP, Maven, Tycho, Mermaid JS, GraphViz, CommonMark
+     - .. image:: https://img.shields.io/github/issues/sebthom/previewer-eclipse-plugin?label=Issues
+          :alt: GitHub issues
+          :target: https://github.com/sebthom/previewer-eclipse-plugin/issues
+       .. image:: https://img.shields.io/github/issues-pr/sebthom/previewer-eclipse-plugin?label=PRs
+          :alt: GitHub pull requests
+          :target: https://github.com/sebthom/previewer-eclipse-plugin/pulls
+
    * - `sebthom/more-clink-completions <https://github.com/sebthom/more-clink-completions>`_
      - .. image:: https://github.com/sebthom/more-clink-completions/workflows/Build/badge.svg
           :alt: Build Status
