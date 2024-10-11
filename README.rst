@@ -94,6 +94,21 @@
           :alt: GitHub pull requests
           :target: https://github.com/dart4e/dart4e-studio/pulls
 
+   * - `futures4j/futures4j <https://github.com/futures4j/futures4j>`_
+     - .. image:: https://github.com/futures4j/futures4j/workflows/Build/badge.svg
+          :alt: Build Status
+          :target: https://github.com/futures4j/futures4j/actions?query=workflow%3ABuild
+       .. image:: https://img.shields.io/github/stars/futures4j/futures4j?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/futures4j/futures4j
+     - Java 11, Java 17, Maven
+     - .. image:: https://img.shields.io/github/issues/futures4j/futures4j?label=Issues
+          :alt: GitHub issues
+          :target: https://github.com/futures4j/futures4j/issues
+       .. image:: https://img.shields.io/github/issues-pr/futures4j/futures4j?label=PRs
+          :alt: GitHub pull requests
+          :target: https://github.com/futures4j/futures4j/pulls
+
    * - `haxe4e/haxe4e <https://github.com/haxe4e/haxe4e>`_
      - .. image:: https://github.com/haxe4e/haxe4e/workflows/Build/badge.svg
           :alt: Build Status
