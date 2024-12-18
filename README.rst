@@ -19,35 +19,35 @@
      - Main Technologies
      - Issues
 
-   * - `eclipse/lsp4e <https://github.com/eclipse/lsp4e>`_
-     - .. image:: https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fci.eclipse.org%2Flsp4e%2Fjob%2Flsp4e-github%2Fjob%2Fmain%2F&logo=jenkins
+   * - `eclipse/lsp4e <https://github.com/eclipse-lsp4e/lsp4e>`_
+     - .. image:: https://github.com/eclipse/lsp4e/workflows/Build/badge.svg
           :alt: Build Status
-          :target: https://github.com/eclipse/lsp4e/actions?query=workflow%3ABuild
-       .. image:: https://img.shields.io/github/stars/eclipse/lsp4e?style=social
+          :target: https://github.com/eclipse-lsp4e/lsp4e/actions/workflows/build.yml
+       .. image:: https://img.shields.io/github/stars/eclipse-lsp4e/lsp4e?style=social
           :alt: GitHub Repo stars
-          :target: https://github.com/eclipse/lsp4e
+          :target: https://github.com/eclipse-lsp4e/lsp4e
      - Java 17, Eclipse SWT/RCP, Maven, Tycho, Language Server
-     - .. image:: https://img.shields.io/github/issues/eclipse/lsp4e?label=Issues
+     - .. image:: https://img.shields.io/github/issues/eclipse-lsp4e/lsp4e?label=Issues
           :alt: GitHub issues
-          :target: https://github.com/eclipse/lsp4e/issues
-       .. image:: https://img.shields.io/github/issues-pr/eclipse/lsp4e?label=PRs
+          :target: https://github.com/eclipse-lsp4e/lsp4e/issues
+       .. image:: https://img.shields.io/github/issues-pr/eclipse-lsp4e/lsp4e?label=PRs
           :alt: GitHub pull requests
-          :target: https://github.com/eclipse/lsp4e/pulls
+          :target: https://github.com/eclipse-lsp4e/lsp4e/pulls
 
-   * - `eclipse/tm4e <https://github.com/eclipse/tm4e>`_
-     - .. image:: https://github.com/eclipse/tm4e/workflows/Build/badge.svg
+   * - `eclipse/tm4e <https://github.com/eclipse-tm4e/tm4e>`_
+     - .. image:: https://github.com/eclipse-tm4e/tm4e/workflows/Build/badge.svg
           :alt: Build Status
-          :target: https://github.com/eclipse/tm4e/actions?query=workflow%3ABuild
-       .. image:: https://img.shields.io/github/stars/eclipse/tm4e?style=social
+          :target: https://github.com/eclipse-tm4e/tm4e/actions/workflows/build.yml
+       .. image:: https://img.shields.io/github/stars/eclipse-tm4e/tm4e?style=social
           :alt: GitHub Repo stars
-          :target: https://github.com/eclipse/tm4e
+          :target: https://github.com/eclipse-tm4e/tm4e
      - Java 17, Eclipse SWT/RCP, Maven, Tycho
-     - .. image:: https://img.shields.io/github/issues/eclipse/tm4e?label=Issues
+     - .. image:: https://img.shields.io/github/issues/eclipse-tm4e/tm4e?label=Issues
           :alt: GitHub issues
-          :target: https://github.com/eclipse/tm4e/issues
-       .. image:: https://img.shields.io/github/issues-pr/eclipse/tm4e?label=PRs
+          :target: https://github.com/eclipse-tm4e/tm4e/issues
+       .. image:: https://img.shields.io/github/issues-pr/eclipse-tm4e/tm4e?label=PRs
           :alt: GitHub pull requests
-          :target: https://github.com/eclipse/tm4e/pulls
+          :target: https://github.com/eclipse-tm4e/tm4e/pulls
 
    * - `Second-Hand-Friends/kleinanzeigen-bot <https://github.com/Second-Hand-Friends/kleinanzeigen-bot>`_
      - .. image:: https://github.com/Second-Hand-Friends/kleinanzeigen-bot/workflows/Build/badge.svg
