@@ -1,11 +1,14 @@
 ..
-  .. image:: https://github-readme-stats.vercel.app/api?username=sebthom&hide_border=true&hide=stars&show_icons=true&line_height=22&count_private=true&include_all_commits=true&theme=default
+
+  .. image:: https://github-readme-stats.vercel.app/api?username=sebthom&hide_border=true&hide=stars&show_icons=true&line_height=22&count_private=true&theme=default&include_all_commits=true
      :target: https://github.com/anuraghazra/github-readme-stats
-     :width: 480
-  .. image:: https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=sebthom&langs_count=6&layout=compact&hide_border=true&langs_count=4&theme=default&hide=aspectj&role=OWNER,COLLABORATOR
-     #image:: https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&layout=compact&hide_border=true&langs_count=4&theme=default&hide=aspectj
+     :width: 460
+
+  .. image:: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sebthom&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&langs_count=4&hide=aspectj&theme=default&layout=compact&hide_border=true
+     #image:: https://github-readme-stats.vercel.app/api/top-langs/?username=sebthom&langs_count=4&hide=aspectj&theme=default&layout=compact&hide_border=true
      :target: https://github.com/sebthom
      :width: 335
+
   .. image:: https://github-profile-trophy.vercel.app/?username=sebthom&row=1&column=6&margin-w=30&no-frame=true
      :target: https://github.com/ryo-ma/github-profile-trophy
      :alt: GitHub Profile Trophies
