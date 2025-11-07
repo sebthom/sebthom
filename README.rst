@@ -22,14 +22,29 @@
      - Main Technologies
      - Issues
 
+   * - `eclipse/wildwebdeveloper <https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper>`_
+     - .. image:: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/actions/workflows/windowsPR.yml/badge.svg
+          :alt: Build Status
+          :target: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/actions/workflows/windowsPR.yml
+       .. image:: https://img.shields.io/github/stars/eclipse-wildwebdeveloper/wildwebdeveloper?style=social
+          :alt: GitHub Repo stars
+          :target: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper
+     - Java 21, Eclipse SWT/RCP, Maven, Tycho, Language Server
+     - .. image:: https://img.shields.io/github/issues/eclipse-wildwebdeveloper/wildwebdeveloper?label=Issues
+          :alt: GitHub issues
+          :target: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/issues
+       .. image:: https://img.shields.io/github/issues-pr/eclipse-wildwebdeveloper/wildwebdeveloper?label=PRs
+          :alt: GitHub pull requests
+          :target: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/pulls
+
    * - `eclipse/lsp4e <https://github.com/eclipse-lsp4e/lsp4e>`_
-     - .. image:: https://github.com/eclipse/lsp4e/workflows/Build/badge.svg
+     - .. image:: https://github.com/eclipse-lsp4e/lsp4e/workflows/Build/badge.svg
           :alt: Build Status
           :target: https://github.com/eclipse-lsp4e/lsp4e/actions/workflows/build.yml
        .. image:: https://img.shields.io/github/stars/eclipse-lsp4e/lsp4e?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/eclipse-lsp4e/lsp4e
-     - Java 17, Eclipse SWT/RCP, Maven, Tycho, Language Server
+     - Java 21, Eclipse SWT/RCP, Maven, Tycho, Language Server
      - .. image:: https://img.shields.io/github/issues/eclipse-lsp4e/lsp4e?label=Issues
           :alt: GitHub issues
           :target: https://github.com/eclipse-lsp4e/lsp4e/issues
@@ -44,7 +59,7 @@
        .. image:: https://img.shields.io/github/stars/eclipse-tm4e/tm4e?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/eclipse-tm4e/tm4e
-     - Java 17, Eclipse SWT/RCP, Maven, Tycho
+     - Java 21, Eclipse SWT/RCP, Maven, Tycho
      - .. image:: https://img.shields.io/github/issues/eclipse-tm4e/tm4e?label=Issues
           :alt: GitHub issues
           :target: https://github.com/eclipse-tm4e/tm4e/issues
