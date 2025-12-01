@@ -8,9 +8,9 @@
      - Issues
 
    * - `eclipse/wildwebdeveloper <https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper>`_
-     - .. image:: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/actions/workflows/windowsPR.yml/badge.svg
+     - .. image:: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/actions/workflows/build.yml/badge.svg
           :alt: Build Status
-          :target: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/actions/workflows/windowsPR.yml
+          :target: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper/actions/workflows/build.yml
        .. image:: https://img.shields.io/github/stars/eclipse-wildwebdeveloper/wildwebdeveloper?style=social
           :alt: GitHub Repo stars
           :target: https://github.com/eclipse-wildwebdeveloper/wildwebdeveloper
